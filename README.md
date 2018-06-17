@@ -1,2 +1,2 @@
-# node-exercises
-Hands-on and exercises on NodeJS
+### Summary
+This repository contains the hands-on exercises and learning on Node.JS.
