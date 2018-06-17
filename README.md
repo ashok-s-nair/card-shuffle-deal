@@ -29,6 +29,16 @@ remaining cards will become unavailable.</p>
 | mocha           | 5.0.5   |  
 | chai            | 4.1.2   |  
   
+### Initial Setup
+The project can be downloaded as a ZIP file for use with an IDE like Eclipse.  
+  
+Please ensure the folder structure reflected in the IDE is the same as shown  
+in this repository.  
+  
+Issue `npm install` from the root folder of the project to download dependent  
+packages. This will also create the `node_modules` folder under the root folder  
+of the project.  
+  
 ### Execution
 To run this program, navigate to the root folder of the project on the target  
 host and enter: ```npm test```
