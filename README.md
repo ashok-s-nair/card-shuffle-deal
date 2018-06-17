@@ -41,7 +41,10 @@ of the project.
   
 ### Execution
 To run this program, navigate to the root folder of the project on the target  
-host and enter: ```npm test```
+host and enter: ```npm test```  
+  
+Please see the file [SampleOutput.JPG](SampleOutput.JPG) for a sample output  
+on Microsoft Windows.  
   
 ### Player Configuration
 The number of players can be configured via a JSON configuration file  
