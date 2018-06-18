@@ -1,0 +1,22 @@
+{
+  "name": "cardshuffledeals",
+  "version": "0.0.1",
+  "description": "A package dealing with shuffling playing cards and their associated tests.",
+  "main": "systest.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --ui tdd --timeout 180000 \"./tests/scripts/*.test.js\""
+  },
+  "keywords": [
+    "card",
+    "shuffle",
+    "card",
+    "deal"
+  ],
+  "author": "Ashok S Nair",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
