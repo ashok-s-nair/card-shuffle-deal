@@ -50,3 +50,7 @@ on Microsoft Windows.
 The number of players can be configured via a JSON configuration file  
 (`userconf.json`) located the folder `tests/config` under the project  
 root path.  
+  
+### Class Documentation
+Please see [index.html](docs/index.html) for the JSDoc-generated documentation  
+for the application.  
